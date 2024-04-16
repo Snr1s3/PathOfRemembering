@@ -6,7 +6,10 @@ We've poured our hearts, souls, and a dash of stardust into this interstellar ad
 
 🔮 Who knows what enigmas you'll decode, what secrets you'll unearth on your journey? Each step is a leap into the unknown. 🔮
 
-So buckle up, and prepare for liftoff. The path of remembering awaits...
+So buckle up, and prepare for liftoff. The path of remembering awaits...  
+
+## Rebuild the project  
+Done with C# in Unity
 
 ## Rebuild the project
 * `cd pathOfRemembering`  
