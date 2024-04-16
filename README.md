@@ -8,4 +8,7 @@ We've poured our hearts, souls, and a dash of stardust into this interstellar ad
 
 So buckle up, and prepare for liftoff. The path of remembering awaits...
 
-🚀 Stay tuned for more updates and intergalactic features! 🎉🎊
+## Authors   
+* Alba Segura Llamas: alba.segurall04@gmail.com
+* Miroslav Magerov: miroslav.magerov.7e5@itb.cat
+* David Muñoz Anastasio
