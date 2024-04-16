@@ -8,7 +8,7 @@ We've poured our hearts, souls, and a dash of stardust into this interstellar ad
 
 So buckle up, and prepare for liftoff. The path of remembering awaits...  
 
-## Rebuild the project  
+## Project Language
 Done with C# in Unity
 
 ## Rebuild the project
