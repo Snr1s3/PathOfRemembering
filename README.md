@@ -17,6 +17,6 @@ Done with C# in Unity
 * `unzip rebuilt_directory`
 
 ## Authors   
-* Alba Segura Llamas: alba.segurall04@gmail.com
+* Alba Segura Llamas: alba.segurallamas@gmail.com
 * Miroslav Magerov: miroslav.magerov.7e5@itb.cat
 * David Muñoz Anastasio
