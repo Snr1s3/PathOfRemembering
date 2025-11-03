@@ -1,4 +1,4 @@
-# 🚀🌌 Path Of Remembering 🌌🚀
+# 🌌 Path Of Remembering 🌌
 Welcome, brave explorer, to the Path of Remembering! Though born as a final project for SMIX, this is no ordinary school assignment, it's a journey through a rich medieval fantasy world, where magic, mystery intertwine.
 o ready your blade, steady your mind, and prepare for liftoff—the Path of Remembering awaits...
 
